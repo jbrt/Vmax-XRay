@@ -1,6 +1,7 @@
 # Vmax-XRay
 
 A tool to provide an inventory of your EMC2 VMAX-3 array.
+**DEPRECATED. Please use my project Array-XRay instead.** 
 
 ## Purpose
 
